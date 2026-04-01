@@ -40,7 +40,7 @@ The solution is built using a layered architecture to ensure separation of conce
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ikriyusuf/EngApp.git
+   git clone https://github.com/ikriyusuf/english-learning-desktop-application.git
    ```
 
 2. **Configure Database**
